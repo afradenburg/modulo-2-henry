@@ -23,5 +23,5 @@ export default class Animals extends React.Component {
   })}
   </div>
     )
-  }
-}
+  }  
+};
